@@ -1,12 +1,12 @@
 Cenário: Tela para cadastro dos clientes 
 Dado que faremos o cadastro de um cliente
-Quando o cliente for PJ
-E informamos o CNPJ, senha e e-mail
-Então o cadastro será efetuado corretamente.
+Quando o cliente é PJ
+E informo o CNPJ, senha e e-mail
+Então o cadastro será efetuado corretamente
 
 
 Cenário: Tela para cadastro dos clientes 
 Dado que faremos o cadastro de um cliente
-Quando o cliente for PF
-E informamos o CPF, senha e e-mail
-Então o cadastro será efetuado corretamente.
+Quando o cliente é PF
+E informo o CPF, senha e e-mail
+Então o cadastro será efetuado corretamente
